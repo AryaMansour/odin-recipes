@@ -1,0 +1,24 @@
+body.main {
+    background-color: red;
+}
+.mainh1 {
+    background-color: red;
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img {
+    height: auto;
+    width: 1000px;
+    text-align: center;
+    margin-left: 12cm;
+}
+uo {
+    font-size: 40px;
+    text-align: center;
+}
+.steak {
+    background-color: brown;
+}
